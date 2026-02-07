@@ -1,0 +1,2 @@
+# Requires: meta-perhaps
+# (Not available on PyPI)
